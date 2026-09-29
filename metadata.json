@@ -1,0 +1,6 @@
+{
+  "name": "MaxMetrika - Аналитика каналов в мессенджере MAX",
+  "description": "Профессиональная платформа аналитики каналов и блогов в российском мессенджере MAX: оценка емкости рынка, антифрод-сканер ботов, AI-предиктор рекламы и медиакиты.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
